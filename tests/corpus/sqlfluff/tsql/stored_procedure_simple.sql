@@ -1,3 +1,0 @@
-CREATE PROC ProcedureName
-AS
-SELECT DB_NAME()

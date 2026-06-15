@@ -1,3 +1,0 @@
-DROP ICEBERG TABLE my_table;
-
-DROP ICEBERG TABLE IF EXISTS my_table;

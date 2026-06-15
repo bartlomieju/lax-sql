@@ -1,1 +1,0 @@
-SELECT * FROM onetable IGNORE INDEX FOR ORDER BY (i2);

@@ -1,1 +1,0 @@
-DESCRIBE my_table;

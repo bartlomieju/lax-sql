@@ -1,3 +1,0 @@
-DROP DYNAMIC TABLE my_table;
-
-DROP DYNAMIC TABLE IF EXISTS my_table;

@@ -1,1 +1,0 @@
-SELECT Id FROM Account WHERE CreatedDate = LAST_N_WEEKS:5

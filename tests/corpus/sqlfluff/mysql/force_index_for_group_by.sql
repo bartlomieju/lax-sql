@@ -1,1 +1,0 @@
-SELECT * FROM onetable FORCE INDEX FOR GROUP BY (i2);

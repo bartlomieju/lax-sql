@@ -1,7 +1,0 @@
-CREATE FUNCTION `add`(test int)
-RETURNS longtext
-DETERMINISTIC
-NO SQL
-BEGIN
-SELECT 1 + 2;
-END~

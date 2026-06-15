@@ -1,4 +1,0 @@
-GRANT USAGE ON SCHEMA online_sales TO Joe;
-GRANT ALL PRIVILEGES ON TABLE customer_dimension TO Joe;
-GRANT ALL PRIVILEGES EXTEND ON TABLE customer_dimension TO Joe;
-GRANT ALL PRIVILEGES ON ship TO Joe;

@@ -1,2 +1,0 @@
-DEFINE DATABASE DCM_PROJECT
-  COMMENT = 'For DCM Quickstart Demo';

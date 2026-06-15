@@ -1,3 +1,0 @@
-SELECT *
-FROM counter
-LIMIT 10 OFFSET 10

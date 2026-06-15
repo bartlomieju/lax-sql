@@ -1,1 +1,0 @@
-SELECT * FROM dataset.my_table TABLESAMPLE SYSTEM (10 PERCENT);

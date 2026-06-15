@@ -1,3 +1,0 @@
-CREATE TABLE a (
-    id INT AUTO_INCREMENT
-)

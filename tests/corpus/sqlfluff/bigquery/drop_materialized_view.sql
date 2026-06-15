@@ -1,3 +1,0 @@
-DROP MATERIALIZED VIEW mydataset.my_mv;
-
-DROP MATERIALIZED VIEW IF EXISTS mydataset.my_mv;

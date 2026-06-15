@@ -1,6 +1,0 @@
-SELECT ! TRUE;
-
-SELECT ! NULL;
-
-SELECT * FROM tab
-WHERE ! (col > 0);

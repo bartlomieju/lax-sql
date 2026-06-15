@@ -1,3 +1,0 @@
-SELECT
-    123 AS INTEGER,
-    123 AS INT

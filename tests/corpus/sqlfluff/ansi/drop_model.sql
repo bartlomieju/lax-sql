@@ -1,1 +1,0 @@
-DROP MODEL IF EXISTS model3

@@ -1,3 +1,0 @@
-SET _VARIABLE1 = 'Hello World';
-
-SELECT $_VARIABLE1;

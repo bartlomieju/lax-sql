@@ -1,1 +1,0 @@
-SELECT ARRAY[CAST(ROW(1) AS ROW(x INT))][1].x.y;

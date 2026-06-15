@@ -1,1 +1,0 @@
-INSERT INTO test PARTITION(p1, p2) SELECT * FROM test2;

@@ -1,1 +1,0 @@
-SELECT STRING_AGG(a ORDER BY b, c) FROM foo

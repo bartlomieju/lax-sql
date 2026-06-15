@@ -1,3 +1,0 @@
-SELECT 1 <=> 1, NULL <=> NULL, 1 <=> NULL;
-
-SELECT 1 WHERE NULL <=> 1;

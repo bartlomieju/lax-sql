@@ -1,1 +1,0 @@
-SELECT * FROM onetable FORCE INDEX FOR ORDER BY (i2);

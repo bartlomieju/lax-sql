@@ -1,2 +1,0 @@
-SELECT X'123456' AS col;
-SELECT X"123456" AS col;

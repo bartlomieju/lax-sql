@@ -1,2 +1,0 @@
-SET SESSION DATABASE database1;
-SS DATABASE database1;

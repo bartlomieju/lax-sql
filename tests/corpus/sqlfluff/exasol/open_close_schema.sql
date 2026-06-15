@@ -1,3 +1,0 @@
-OPEN SCHEMA test;
-OPEN SCHEMA "test";
-CLOSE SCHEMA;

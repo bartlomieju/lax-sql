@@ -1,1 +1,0 @@
-INSERT INTO test WITH LABEL label1 SELECT * FROM test2;

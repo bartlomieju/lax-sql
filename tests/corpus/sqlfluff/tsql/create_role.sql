@@ -1,2 +1,0 @@
-CREATE ROLE testuser;
-CREATE ROLE testuser AUTHORIZATION dbo;

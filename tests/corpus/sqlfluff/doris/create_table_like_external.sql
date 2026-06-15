@@ -1,1 +1,0 @@
-CREATE EXTERNAL TABLE external_new_table LIKE external_existing_table;

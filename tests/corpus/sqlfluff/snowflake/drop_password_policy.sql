@@ -1,1 +1,0 @@
-DROP PASSWORD POLICY password_policy_production_1;

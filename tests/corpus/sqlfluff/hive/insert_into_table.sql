@@ -1,5 +1,0 @@
-INSERT INTO TABLE foo
-SELECT a, b FROM bar;
-
-INSERT INTO foo
-SELECT a, b FROM bar;

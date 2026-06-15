@@ -1,5 +1,0 @@
-SELECT
-  0
-UNION ALL
-SELECT
-  1

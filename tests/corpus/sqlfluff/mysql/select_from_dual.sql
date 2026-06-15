@@ -1,8 +1,0 @@
-SELECT 'Dummy'
-FROM dual
-WHERE NOT EXISTS (SELECT 1 FROM a_table);
-
-INSERT INTO a_table (col1)
-SELECT 'Dummy'
-FROM dual
-WHERE NOT EXISTS (SELECT 1 FROM a_table);

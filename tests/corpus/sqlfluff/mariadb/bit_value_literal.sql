@@ -1,3 +1,0 @@
-SELECT b'01';
-SELECT B'01';
-SELECT 0b01;

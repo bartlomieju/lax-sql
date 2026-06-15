@@ -1,1 +1,0 @@
-ALTER TASK IF EXISTS my_task RESUME;

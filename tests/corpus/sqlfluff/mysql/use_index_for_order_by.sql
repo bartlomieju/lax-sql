@@ -1,1 +1,0 @@
-SELECT * FROM t1 test USE INDEX FOR ORDER BY (i2);

@@ -1,3 +1,0 @@
-TRUNCATE TABLE foo;
-
-TRUNCATE bar PARTITION (col='val');

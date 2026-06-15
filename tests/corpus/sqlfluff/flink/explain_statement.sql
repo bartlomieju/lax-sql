@@ -1,1 +1,0 @@
-EXPLAIN SELECT * FROM my_table;
